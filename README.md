@@ -14,3 +14,11 @@
 走迷宫问题。
 
 具体可以看[博客](https://zhuanlan.zhihu.com/p/174764973)
+
+## FrozenLake
+
+冰冻湖问题。
+
+两种方法，一种值迭代，一种策略迭代。
+
+具体可以看[博客](https://micro-han.github.io/2022/01/16/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-Python%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%AB%A0/)
