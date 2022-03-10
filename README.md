@@ -40,3 +40,16 @@
 具体可以看[博客](https://micro-han.github.io/2022/01/20/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-Python%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%AC%E4%BA%94%E7%AB%A0/)
 
 // 找时间把每个环境的状态写一下
+
+## Mspacman
+
+吃豆人游戏，通过DQN来实现
+
+具体可以看[博客](https://micro-han.github.io/2022/02/15/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-Python%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%AC%E5%85%AB%E7%AB%A0/)
+
+## DoomGames
+
+- 包括了一个demo游戏
+- 包括了一个DRQN的Doom游戏
+
+[博客](https://micro-han.github.io/2022/02/26/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-Python%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B9%9D%E7%AB%A0/)
